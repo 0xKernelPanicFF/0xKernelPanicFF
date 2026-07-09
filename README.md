@@ -14,15 +14,8 @@
 
 ---
 
-## 📊 Счётчики и статусы
+## 📊 Статус
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xKernelPanicFF&label=👀+ПРОСМОТРЫ&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/stars/0xKernelPanicFF/0xKernelPanicFF?style=flat&label=⭐+ЗВЁЗДЫ&color=yellow" alt="stars" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/0xKernelPanicFF/0xKernelPanicFF?style=flat&label=📅+ПОСЛЕДНИЙ+КОММИТ&color=blueviolet" alt="last commit" />
   <img src="https://img.shields.io/badge/СТАТУС-Активный_поиск-brightgreen?style=flat" alt="status" />
   <img src="https://img.shields.io/badge/ОПЫТ-8_месяцев-blue?style=flat" alt="experience" />
 </p>
@@ -93,10 +86,10 @@
 ---
 
 ## 🧰 Любимые инструменты
-
+  
 ```
-🛠️ Nmap   🛠️ Burp Suite   🛠️ Metasploit   🛠️ Impacket
-        🛠️ Wireshark    🛠️ Hashcat     🛠️ NetExec
+🛠️ Nmap       🛠️ Burp Suite  🛠️ Metasploit   🛠️ Impacket   🛠️ Whatweb
+🛠️ Dirsearch  🛠️ Hashcat     🛠️ NetExec      🛠️ Searchsploit
 ```
 
 ---
