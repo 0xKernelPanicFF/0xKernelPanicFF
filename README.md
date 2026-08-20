@@ -91,8 +91,8 @@
 
 | Найденная проблема | Платформа | Статус | Ссылка на writeup |
 |-------------------|-----------|--------|-------------------|
-| Раскрытие маршрутов через `/prometheus/metrics` | Standoff 365 | Дубликат (методология подтверждена) | [📄](./writeups/Standoff365/Information_Disclosure/1/) |
-| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | Отозван (не сочли уязвимостью) | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/1) |
+| Раскрытие маршрутов через `/prometheus/metrics` | Standoff 365 | Дубликат (методология подтверждена) | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/1) |
+| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | Отозван (не сочли уязвимостью) | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/%D0%9E%D1%82%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD/1) |
 
 **Что я вынес из этого опыта:**  
 - Системная проверка **всех поддоменов** и стандартных DevOps-путей (metrics, configuration.json, .well-known) даёт результаты.  
