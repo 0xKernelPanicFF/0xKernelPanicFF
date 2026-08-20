@@ -104,8 +104,8 @@
 ## 🧰 Любимые инструменты
   
 ```
-🛠️ Nmap       🛠️ Burp Suite  🛠️ Metasploit   🛠️ Impacket   🛠️ Whatweb
-🛠️ Dirsearch  🛠️ Hashcat     🛠️ NetExec      🛠️ Searchsploit
+🛠️ Nmap       🛠️ Burp Suite  🛠️ Metasploit  🛠️ Impacket      🛠️ Whatweb  🛠️ Nuclei
+🛠️ Dirsearch  🛠️ Hashcat     🛠️ NetExec     🛠️ Searchsploit  🛠️ Httpx    🛠️ Dnsx
 ```
 
 ---
