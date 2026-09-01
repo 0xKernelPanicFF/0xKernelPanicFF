@@ -93,7 +93,7 @@
 | Найденная проблема | Платформа | Ссылка на writeup |
 |-------------------|-----------|-------------------|
 | Раскрытие маршрутов через `/prometheus/metrics` | Standoff 365 | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/1) |
-| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/%D0%9E%D1%82%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD/1) |
+| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/2) |
 
 ---
 
