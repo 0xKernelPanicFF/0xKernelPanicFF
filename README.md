@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CyberEd-Пентестер-0055ff?style=for-the-badge&logo=linux&logoColor=white" alt="CyberEd" />
   <img src="https://img.shields.io/badge/МГТУ_им._Баумана-ИБ-0055a4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Bauman" />
-  <img src="https://img.shields.io/badge/TryHackMe-В_процессе-212c42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Bizone-В_процессе-ff6b00?style=for-the-badge&logo=linux&logoColor=white" alt="Bizone" />
   <img src="https://img.shields.io/badge/Standoff_365-В_процессе-000000?style=for-the-badge&logo=datadog&logoColor=white" alt="Standoff" />
 </p>
 
@@ -38,7 +38,7 @@
 🕵️ Начинающий пентестер с фокусом на  **Active Directory**, **веб-безопасность**, **Linux** и **пост-эксплуатацию**.  
 ⚙️ Выстроил **автономную ИИ-инфраструктуру** на базе локальных LLM (Ollama, Llama) для безопасного (offline) анализа кода и логов.  
 🧠 Составляю **эффективные промпты** для генерации эксплойтов и скриптов автоматизации — всегда контролирую логику работы ИИ.  
-📚 Прокачиваю Hard Skills на **Standoff 365** и **TryHackMe**.
+📚 Прокачиваю Hard Skills на **Standoff 365** и **BI.ZONE**.
 
 🎯 **Цель:** Red Team / Bug Bounty.
 
@@ -87,20 +87,15 @@
 
 ## 🧨 Bug Bounty (июль 2026 – настоящее время)
 
-Систематически участвую в программах **Standoff 365**, практикую ручной поиск уязвимостей в веб-приложениях и API. Все находки документирую в этом репозитории.
+Систематически участвую в программах **Standoff 365**, практикую ручной поиск уязвимостей в веб-приложениях и API. Все находки документирую в этом репозитории.  
 Мой профиль: [ZORG на Standoff 365](https://standoff365.com/profile/ZORG/)
 
-| Найденная проблема | Платформа | Статус | Ссылка на writeup |
-|-------------------|-----------|--------|-------------------|
-| Раскрытие маршрутов через `/prometheus/metrics` | Standoff 365 | Дубликат (методология подтверждена) | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/1) |
-| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | Отозван (не сочли уязвимостью) | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/%D0%9E%D1%82%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD/1) |
+| Найденная проблема | Платформа | Ссылка на writeup |
+|-------------------|-----------|-------------------|
+| Раскрытие маршрутов через `/prometheus/metrics` | Standoff 365 | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/Information_Disclosure/1) |
+| Открытые конфиги + JWT-токен + внутренние URL на нескольких поддоменах | Standoff 365 | [📄](https://github.com/0xKernelPanicFF/offensive-writeups/tree/main/Standoff365/%D0%9E%D1%82%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD/1) |
 
-**Что я вынес из этого опыта:**  
-- Системная проверка **всех поддоменов** и стандартных DevOps-путей (metrics, configuration.json, .well-known) даёт результаты.  
-- Даже **отклонённые баги** полезны – они уточняют границы политики программы и помогают лучше формулировать отчёты.  
-- **Качественная документация** – половина успеха, каждый отчёт пишу так, как будто показываю его будущему работодателю.
-
-Продолжаю искать новые уязвимости – следите за обновлениями!
+---
 
 ## 🧰 Любимые инструменты
   
